@@ -1,2 +1,2 @@
-# chew-the-fat
-Chew the fat is a messaging application 
+# chew-fat
+Chew fat is a messaging application 
